@@ -1,0 +1,15 @@
+com\database\DeleteMcqs.class
+com\database\ChangePassword.class
+com\database\Comment.class
+com\database\ContactDevelopers.class
+com\database\ContactStudents.class
+com\database\AddMcqs.class
+com\database\ContactTeachers.class
+com\database\AskQuestion.class
+com\database\Register.class
+com\database\Logout.class
+com\database\Login.class
+com\database\ChangeEmail.class
+com\database\EditMcqs.class
+com\database\Mcqs.class
+com\database\McqScore.class
